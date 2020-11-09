@@ -1,4 +1,5 @@
-# nlw
+# nlw 2 - PROFFY
+<img src="https://github.com/BrunoArrais/nlw/blob/master/img-git/tela_1.jpg" alt="">
 
 Video Aula da Rockseat que entregou um projeto criado do zero envolvendo:
 
